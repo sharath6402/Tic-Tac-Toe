@@ -29,6 +29,8 @@ This Python program implements a Tic Tac Toe game using the Tkinter library. The
 - You can easily modify the predefined function for the computer's moves by editing the `nextpos()` function in singleplayer.py.
 
 ## Code Structure
-- `tictactoemain.py`: Main Python script containing the game logic and Tkinter GUI setup.
+- `tictactoemain.py`: Main Python script containing the Tkinter GUI setup.
+- `singleplayer.py`: Python script containing the game logic and Tkinter GUI setup for player and computer.
+- `twoplayer.py`: Main Python script containing the game logic and Tkinter GUI setup for two player.
 
 Feel free to explore and modify the code to suit your preferences. Enjoy playing Tic Tac Toe!
