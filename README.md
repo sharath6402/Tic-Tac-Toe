@@ -22,7 +22,7 @@ This Python program implements a Tic Tac Toe game using the Tkinter library. The
 
 - **One-Player Game:**
   - Player faces off against the computer.
-  - The computer's moves are determined by a predefined function.
+  - The computer's moves are determined by minimax RL function.
   - Enjoy a challenging game against an AI opponent.
 
 ## Customization
